@@ -7,7 +7,7 @@
 This repository provides multiple ways to run the tool, depending on your operating system and environment:
 
 * **`MemTierSizer.ps1`**: The standard PowerShell script for Windows environments.
-* **`MAC_Friendly_MemTierSizer.ps1`**: A macOS-optimized version of the PowerShell script (requires PowerShell Core).
+* **`MAC_Friendly_MemTierSizer.ps1`**: A macOS-optimized version of the PowerShell script (requires PowerShell Core). Version 1 ONLY
 * **`MemoryTieringSizer.exe`**: A standalone, compiled Windows executable. No PowerShell scripting experience required to run.
 * **`Sizer_Tool.mp4`**: A video demonstration showing how to use the tool and interpret its output. 
 
@@ -27,7 +27,7 @@ This repository provides multiple ways to run the tool, depending on your operat
 Execute the script 
    .\MemTierSizer.ps1
 
-   ### For Mac OS (Using PowerShell)
+   ### For Mac OS (Using PowerShell) Version 1.0 ONLY
 1. Ensure you have PowerShell for macOS installed.
 2. Clone the repository or download MAC_Friendly_MemTierSizer.ps1.
 3. Open your terminal and launch PowerShell by typing pwsh.

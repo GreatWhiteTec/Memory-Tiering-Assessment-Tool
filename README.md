@@ -1,6 +1,6 @@
-# MemTier Planner (Memory Tiering Sizer)
+# Memory Tiering Assessment Tool (MTAT)
 
-**MemTier Planner** is a workload planning and sizing utility designed to help system administrators, engineers, and architects evaluate and plan memory tiering deployments. This tool analyzes system requirements and helps optimize memory allocation across different performance tiers.
+**MTAT** is a workload planning and sizing utility designed to help system administrators, engineers, and architects evaluate and plan memory tiering deployments. This tool analyzes system requirements and helps optimize memory allocation across different performance tiers.
 
 ## 🗂️ Repository Contents
 

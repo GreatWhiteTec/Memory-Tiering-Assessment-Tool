@@ -34,6 +34,9 @@ Execute the script
 4. Navigate to the directory containing the script and run:
     .\MAC_Friendly_MemTierSizer.ps1
 
+   
+Version 2.0
+Added per host visibility for active memory
 
 ## 📝 License
 

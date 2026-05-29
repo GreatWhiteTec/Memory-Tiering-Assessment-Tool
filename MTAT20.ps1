@@ -257,5 +257,5 @@ $btnExport.Add_Click({
     }
 })
 
-# THE FIX: Cast the form call to [void] so it doesn't spit out "Cancel" to the ps2exe wrapper
+# Cast the form call to [void] so it doesn't spit out "Cancel" to the ps2exe wrapper
 [void]$form.ShowDialog()
